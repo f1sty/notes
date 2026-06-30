@@ -20,3 +20,4 @@ emerge --deselect <pkgname> - plan package for a remove in the next --depclean r
 emerge --depclean - remove unneeded deps and deselected packages
 emerge --oneshot <pkgname> - package will be removed with next --depclean
 emerge --info - shitload of info about the system
+emaint all - clean-up

@@ -7,5 +7,8 @@ aliases: []
 
 # index
 
-[[helix]]
 [[gentoo]]
+[[helix]]
+[[ideas]]
+[[linux]]
+[[low-level]]
