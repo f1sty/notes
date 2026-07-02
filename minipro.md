@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30
-tags: [note]
+tags: [note, minipro, arduino]
 id: ortz
 aliases: []
 ---
