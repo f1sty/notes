@@ -10,3 +10,7 @@ aliases: []
 - [ ] make Arduino based SIM-card reader
 - [ ] GUI terminal in zig
 - [ ] zoom application in zig
+
+## man pages
+
+mq_overview

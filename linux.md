@@ -1,6 +1,6 @@
 ---
 date: 2026-06-30
-tags: [note]
+tags: [note, wpctl, command, cli]
 id: zhv3
 aliases: []
 ---
