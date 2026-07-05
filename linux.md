@@ -7,6 +7,11 @@ aliases: []
 
 # linux
 
+## useful utils
+
+* `pahole` - inspect datastructures in executables/shared objects
+* `atop` - useful info about memory usage
+
 ## purge caches
 
 sync
