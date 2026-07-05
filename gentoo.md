@@ -20,4 +20,10 @@ emerge --deselect <pkgname> - plan package for a remove in the next --depclean r
 emerge --depclean - remove unneeded deps and deselected packages
 emerge --oneshot <pkgname> - package will be removed with next --depclean
 emerge --info - shitload of info about the system
+emerge -C <pkgname> - remove package that isn't in @world (installed  non-explicitly)
 emaint all - clean-up
+
+
+## notes
+
+- never install xdg-portal-gnome along with niri, creates open dialog bugs.
